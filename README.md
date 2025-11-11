@@ -1,2 +1,2 @@
-# Animate-Plot-
-Des code R utile pour la visualisation de données biologiques avec des données d'exemple de prévalence du cancer ou encore sur les taux de vaccination 
+# 🎬 Visualisations animées de données de santé publique en R.
+Évolution temporelle de la prévalence du cancer et des taux de vaccination. Utilise de package comme gganimate ou plotly.
