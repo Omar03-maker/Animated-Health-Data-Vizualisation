@@ -1,3 +1,4 @@
+
 # 🎬 Visualisations animées de données avec R
 ## Description
 Ce repository contient des scripts R pour créer des visualisations animées de données notamment sur l'évolution temporelle de la prévalence du cancer et des taux de vaccination (données d'exemple).
